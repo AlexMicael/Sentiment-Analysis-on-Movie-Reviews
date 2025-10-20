@@ -1,5 +1,8 @@
 # Sentiment Analysis on Movie Reviews
 
+[![License](https://img.shields.io/badge/License-Apache_2.0-0D76A8?style=flat)](https://opensource.org/licenses/Apache-2.0)
+[![Python 3.7.12](https://img.shields.io/badge/Python-3.7.12-green.svg)](https://shields.io/)
+
 ## Project Overview
 
 This project performs sentiment analysis on IMDB movie reviews using machine learning models. The objective is to classify each review as positive or negative and identify which algorithm is most effective for binary text classification. The workflow includes text preprocessing, TF-IDF vectorization, model training, and comparative evaluation across several supervised learning methods.
