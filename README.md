@@ -61,4 +61,4 @@ This project performs sentiment analysis on IMDB movie reviews using machine lea
 
 ---
 
-*Project created as part of Introduction to Data Mining (CS 436) at Binghamton University, 2025*
+*Project created as part of Introduction to Data Mining (CS 435) at Binghamton University, 2025*
